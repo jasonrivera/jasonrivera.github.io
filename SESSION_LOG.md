@@ -37,3 +37,17 @@ A record of my coding sessions, what I practiced, and when.
 - Learned about the importance of clear commit messages and documentation.
 
 ---
+
+### ✅ March 29, 2025
+
+**Concepts Practiced:**
+- File extension management in Python projects
+- Creating and completing Python exercise
+- Using f-strings for formatted output
+
+**Files Created/Updated:**
+- Updated all `.py` file extensions to `.md` in each concept folder
+- Created `01_variables_exercise_1.py` for the budget tracker exercise
+
+**Notes:**
+- Used f-strings to create cleaner print outputs in the budget tracker program.
