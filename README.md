@@ -7,11 +7,11 @@ Welcome to my personal Python learning repository! This is where I’m building 
 ## 📚 Structure
 
 The project is organized by concept area, and each one contains:
-- Core learning files (`01_variables.py`, `02_strings.py`, etc.)
+- Core learning files (`01_variables.md`, `02_strings.md`, etc.)
 - An `exercises/` folder with practice sessions broken down by topic
 
 Example:
-01_basics/ ├── 01_variables.py ├── ... └── exercises/ ├── 01_variables_exercises.py └── 01_variables_practice_01.py
+01_basics/ ├── 01_variables.md ├── ... └── exercises/ ├── 01_variables_exercise_1.py
 
 
 ---
