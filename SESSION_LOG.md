@@ -2,53 +2,13 @@
 
 A record of my coding sessions, what I practiced, and when.
 
----
 
-### ✅ March 27, 2025
 
-**Concepts Practiced:**
-- Git & GitHub workflow setup
-- Organized project structure
-- Finalized `.gitignore`
+### ✅ March 30, 2025
 
-**Files Created/Updated:**
-- `.gitignore`
-- README.md
+**Tasks Completed:**
+- Complete overhaul of repo including the main README.md file for the repo and re-doing folder organization.
 
 **Notes:**
-- Repo fully connected to GitHub! Ready to practice daily.
-
----
-
-
-### ✅ March 28, 2025
-
-**Concepts Practiced:**
-- Understanding and using variables in Python
-- Markdown formatting for documentation
-- Basic Git commands for version control
-
-**Files Created/Updated:**
-- Converted `01_variables.py` to `01_variables.md`
-- Updated content in `01_variables.md`
-
-**Notes:**
-- Successfully pushed changes to GitHub repository.
-- Learned about the importance of clear commit messages and documentation.
-
----
-
-### ✅ March 29, 2025
-
-**Concepts Practiced:**
-- File extension management in Python projects
-- Creating and completing Python exercise
-- Using f-strings for formatted output
-
-**Files Created/Updated:**
-- Updated all `.py` file extensions to `.md` in each concept folder
-- Created `01_variables_exercise_1.py` for the budget tracker exercise
-- UPDATE: I removed all markdown files from this repo since I moved everything over to Notion. This repo will mainly consist of practice exercises and projects going forward.
-
-**Notes:**
-- Used f-strings to create cleaner print outputs in the budget tracker program.
+- Going forward this repo will strictly be focused on documenting all hands-on exercises, challenges, and projects for Python. 
+- Python concept guides will be kept in Notion to keep this repo much cleaner and easier to follow.
