@@ -48,6 +48,7 @@ A record of my coding sessions, what I practiced, and when.
 **Files Created/Updated:**
 - Updated all `.py` file extensions to `.md` in each concept folder
 - Created `01_variables_exercise_1.py` for the budget tracker exercise
+- UPDATE: I removed all markdown files from this repo since I moved everything over to Notion. This repo will mainly consist of practice exercises and projects going forward.
 
 **Notes:**
 - Used f-strings to create cleaner print outputs in the budget tracker program.
